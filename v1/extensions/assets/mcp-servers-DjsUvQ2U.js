@@ -1,4 +1,4 @@
-import{r as a,l as c}from"./chunk-SYFQ2XB5-DqPEAYc-.js";/**
+import{r as a,l as c}from"./chunk-IR6S3I6Y-DeDxUTe3.js";/**
  * @license lucide-react v0.471.2 - ISC
  *
  * This source code is licensed under the ISC license.
